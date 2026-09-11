@@ -1,56 +1,53 @@
-# TÍTULO DO PROJETO
+# Informações do Projeto de Extensão
+`TÍTULO DO PROJETO`:  Conta Rasa
 
-`CURSO`
+ `DISCIPLINA`: Trabalho Interdisciplinar: Aplicações para Sustentabilidade
 
-`DISCIPLINA`
+`CURSO`: Sistemas de Informação
 
-`SEMESTRE`
+`SEMESTRE`: 2/2026
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+## Participantes
 
-## Integrantes
-
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-
-## Orientador
-
-* Nome completo do professor 1
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-# Documentação
-
-<ol>
-<li><a href="docs/1-Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/2-Planejamento_GestãoSprints.md"> Cronograma e Gestão de Papéis por Sprint</a></li>
-<li><a href="docs/3-Arquitetura_Processos.md"> Contexto do Negócio e Arquitetura de Processos</a></li>
-<li><a href="docs/4-Modelagem-Processos-Negócio.md"> Modelagem dos Processos de Negocio</a></li>
-<li><a href="docs/5-Projeto-Solucao.md"> Projeto da solução</a></li>
-<li><a href="docs/6-Interface-Sistema.md"> Interface do Sistema</a></li>
-<li><a href="docs/7-Metricas.md"> Métricas por Indicadores do Negócioo</a></li>
-<li><a href="docs/8-Conclusão.md"> Conclusão</a></li>
-<li><a href="docs/9-Referências.md"> Referências</a></li>
-</ol>
-
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+Os membros do grupo são: 
+- Anna Laura
+- Izabela
+- Lucas
+- Luiz Felipe
+- Matheus da Costa 
 
 
-## Histórico de versões
+# Estrutura do Projeto
 
-* 0.1.1
-    * CHANGE: Atualização das documentações. Código permaneceu inalterado.
-* 0.1.0
-    * Implementação da funcionalidade X pertencente ao processo P.
-* 0.0.1
-    * Trabalhando na modelagem do processo de negócio.
+1. [Contextualização do Projeto](./docs/1-Contexto.md)
+2. [Especificações do Projeto](./docs/2-Especificação.md)
+3. [Projeto da Interface](./docs/3-Interface.md)
+4. [Gerenciamento do Projeto](./docs/4-Gerenciamento-Projeto.md)
+5. [Implementação](./docs/5-Implementação.md)
+6. [Referências](./docs/6-Referências.md)
+7. [Apresentação do trabalho](./docs/apresentacao/README.md) 
+
+
+
+## Pasta docs
+
+Esta pasta arquiva a documentação dos projetos.
+
+
+Na pasta `docs`, há uma subpasta `images` que deve arquivar todas as
+imagens utilizadas para a elaboração do documento.
+
+
+## Pasta src
+
+Este diretório armazena o código fonte do projeto e adota uma hierarquia
+básica de projetos Web simples, que utilizam as tecnologias HTML, CSS e
+JavaScript.
+
+### Links Úteis:
+
+Aprenda Markdown e use-o para documentar o projeto  
+
+> [Sintaxe básica de gravação e formatação no GitHub](https://guides.github.com/features/mastering-markdown/)
+
+> [Suporte Github](https://help.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
